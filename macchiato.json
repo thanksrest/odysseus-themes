@@ -1,5 +1,5 @@
 {
-  "name": "Catppuccin Macchiato",
+  "name": "Macchiato (Warm Dark)",
   "colors": {
     "background": "#24273a",
     "panel": "#1e2030",
@@ -8,4 +8,5 @@
     "sidebar": "#181926",
     "accent": "#c6a0f6"
   }
+  // Alt Accents: Blue (#8aadf4), Teal (#8bd5ca), Peach (#f5a97f)
 }

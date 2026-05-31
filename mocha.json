@@ -1,16 +1,11 @@
 {
   "name": "Catppuccin Mocha",
   "colors": {
-    "bg": "#1e1e2e",
-    "fg": "#cdd6f4",
+    "background": "#1e1e2e",
     "panel": "#181825",
     "border": "#313244",
-    "red": "#cba6f7",
-    "advanced": {
-      "sidebarBg": "#11111b"
-    }
-  },
-  "density": "compact",
-  "bgPattern": "rain",
-  "bgEffectColor": "#9cb3f2"
+    "text": "#cdd6f4",
+    "sidebar": "#11111b",
+    "accent": "#cba6f7"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Catppuccin Latte",
+  "name": "Latte (Light Mode)",
   "colors": {
     "background": "#eff1f5",
     "panel": "#e6e9ef",
@@ -8,4 +8,5 @@
     "sidebar": "#dce0e8",
     "accent": "#8839ef"
   }
+  // Alt Accents: Blue (#1e66f5), Teal (#179287), Flamingo (#dd7878)
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Catppuccin Frappé",
+  "colors": {
+    "background": "#303446",
+    "panel": "#292c3c",
+    "border": "#414559",
+    "text": "#c6d0f5",
+    "sidebar": "#232634",
+    "accent": "#ca9ee6"
+  }
+}

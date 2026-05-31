@@ -1,0 +1,11 @@
+{
+  "name": "Catppuccin Macchiato",
+  "colors": {
+    "background": "#24273a",
+    "panel": "#1e2030",
+    "border": "#363a4f",
+    "text": "#cad3f5",
+    "sidebar": "#181926",
+    "accent": "#c6a0f6"
+  }
+}

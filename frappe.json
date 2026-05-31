@@ -1,5 +1,5 @@
 {
-  "name": "Catppuccin Frappé",
+  "name": "Frappé (Muted Dark)",
   "colors": {
     "background": "#303446",
     "panel": "#292c3c",
@@ -8,4 +8,5 @@
     "sidebar": "#232634",
     "accent": "#ca9ee6"
   }
+  // Alt accents: Blue (#8caaee), Teal (#81c8be), Rosewater (#f2d5cf)
 }
